@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+//DOESN'T WORK, I'M WORKING TO RETURN ANOTHER AND BETTER SOLUTION.
+
 typedef struct Node{
     char value;
     int score;
